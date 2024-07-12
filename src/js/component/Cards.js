@@ -4,7 +4,7 @@ const Cards = () => {
 const cardTitle =[]
 const cardDescription =[]
     return (
-        <div className="m-2 card" style={{width: "30%"}}>
+        <div className="m-2 col col-md-3 card" style={{width: ""}}>
             <img src={logoBernardoNurvia} alt="Logo Bernardo Nurvia" className="card-img-top"/>
                 <div className="card-body">
                     <h5 className="card-title text-center">Card title</h5>

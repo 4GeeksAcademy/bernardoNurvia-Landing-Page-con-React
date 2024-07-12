@@ -5,7 +5,7 @@ const NavBar = () => {
     return (
         <nav className="bg-secondary sticky-top text-secondary-emphasis navbar-expand-lg">
 
-            <ul className="d-flex nav">
+            <ul className="d-flex col nav">
                 <li className="nav-item me-auto pt-2 ps-2">
                     <a className="navbar-brand nav-item-text" href="#">
                         <img src={logoBernardoNurvia} alt="Logo Bernardo Nurvia" style={{border:"5%", width: "30px", height: "30px", marginRight: "3px", marginBottom: "4px"}} classNameName="aling-itetext-center" />
