@@ -21,7 +21,7 @@ const Home = () => {
 				<Cards imgUrl={bernardo} name="Bernardo" description="Padre de Familia, super poderoso! asi lo definen sus hijas!" />
 				<Cards imgUrl={vanessa} name="Vanessa" description="Madre, cariñosa y comprensiva, cuida de todos en casa!" />
 				<Cards imgUrl={kamila} name="Kamila" description="La hija mayor, inteligente y cariñosa! excelente estudiante!" />
-				<Cards imgUrl={arantza} name="Arantza" description="El terror de casa, capaz de volver loco a cualquiera, simplemente adorable!" />
+				<Cards imgUrl={arantza} name="Arantza" description="El terror de casa, capaz de volver loco a todos, simplemente adorable!" />
 			</div>
 			</div>
 			

@@ -11,7 +11,7 @@ const Cards = (props) => {
             <div className="card-body">
                 <h5 className="card-title text-center">{props.name}</h5>
                 <p className="card-text">{props.description}</p>
-                <a href="#" className="btn btn-primary d-grid gap-2 col mx-auto mb-2">Go somewhere</a>
+                <a href="#" className="btn btn-primary d-grid gap-2 col">Go somewhere</a>
             </div>
         </div>
     )
