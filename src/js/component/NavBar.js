@@ -8,7 +8,7 @@ const NavBar = () => {
             <ul className="d-flex col nav">
                 <li className="nav-item me-auto pt-2 ps-2">
                     <a className="navbar-brand nav-item-text" href="#">
-                        <img src={logoBernardoNurvia} alt="Logo Bernardo Nurvia" style={{ border: "5%", width: "30px", height: "30px", marginRight: "3px", marginBottom: "4px" }} classNameName="aling-itetext-center" />
+                        <img src={logoBernardoNurvia} alt="Logo Bernardo Nurvia" style={{ border: "8%", width: "30px", height: "30px", marginRight: "3px", marginBottom: "5px" }} classNameName="aling-itetext-center" />
                         Bernardo Nurvia
                     </a>
                 </li>
